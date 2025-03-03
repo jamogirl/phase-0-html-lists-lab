@@ -157,7 +157,7 @@ the _ordered list_ tag, which is written as `<ol>` instead of `<ul>`. Both use
 `<li>` tags inside, but this time, `<ol>` will display a numbered list instead
 of bullets. If say, we wanted to write a _ranked_ list of favorite foods, it
 might look like:
-
+Spread butter on bread and frying pan
 ```html
 <h3>Top 5 Favorite Foods</h3>
 <ol>
@@ -195,7 +195,7 @@ Okay, so we've got our grilled cheese ingredients, but what about the steps
 required to make a grilled cheese? Steps to a recipe need to be in order,
 otherwise we may end up with burnt cheese covered in bread and topped with a
 square of butter. The steps to making a basic grilled cheese would be:
-`Spread butter on bread and frying pan`, `Place bread in frying pan and fry`,
+``, `Place bread in frying pan and fry`,
 `Add cheese on top of bread`, `Cover with second slice of bread`,
 `Turn over and fry for 2 minutes`.
 
